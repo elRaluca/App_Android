@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367540015706",
+    "project_id": "cofetarie-2ef5d",
+    "storage_bucket": "cofetarie-2ef5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367540015706:android:4f802cbb4862ae0cf07e63",
+        "android_client_info": {
+          "package_name": "com.example.aplicatie_cofetarie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367540015706-g17bpl7mqqpr4u5fj4d5vskodj2dbb1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCqdjNrpy_2bzKWkytEwyAgRqxapPPXw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367540015706-5rndpkvhf5cv8vt2oivah40khu311ul7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
